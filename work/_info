@@ -1,0 +1,146 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Budkova/Documents/Quartus/spi_1
+T_opt
+!s110 1620855443
+V7:D6IACLAm?>X@d`XFCPh2
+Z1 04 6 12 work spi_tb spi_tb_behav 1
+=1-5891cff742cf-609c4a93-40-830
+Z2 o-quiet -auto_acc_if_foreign -work work +acc
+Z3 tCvgOpt 0
+n@_opt
+OL;O;10.7;67
+R0
+T_opt1
+!s110 1620910108
+VieeXkICGXVf0Gf]4fj1D^0
+R1
+=5-90b11c7f07c2-609d201c-5a-1b64
+R2
+R3
+n@_opt1
+OL;O;10.5;63
+R0
+Pparameters
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+w1620910430
+Z6 dC:/Users/Budkova/Documents/Quartus/spi
+8C:/Users/Budkova/Documents/Quartus/spi/parameters.vhd
+FC:/Users/Budkova/Documents/Quartus/spi/parameters.vhd
+l0
+L4
+VVboUX:D265SUX^P<6@KFS3
+!s100 DPW1UH7SB1m:CHK89kCY]2
+Z7 OL;C;10.5;63
+32
+Z8 !s110 1620910504
+!i10b 1
+Z9 !s108 1620910504.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/Budkova/Documents/Quartus/spi/parameters.vhd|
+!s107 C:/Users/Budkova/Documents/Quartus/spi/parameters.vhd|
+!i113 0
+Z10 o-work work -2002 -explicit
+Z11 tExplicit 1 CvgOpt 0
+Espi
+Z12 w1620909970
+Z13 DPx4 work 10 parameters 0 22 BMWR2I13S0ifF2e]ozoUS1
+Z14 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z15 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z16 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+R4
+R5
+R6
+Z17 8C:/Users/Budkova/Documents/Quartus/spi/spi.vhd
+Z18 FC:/Users/Budkova/Documents/Quartus/spi/spi.vhd
+l0
+L10
+VTkzKgFZ2EVO6Ion1OXWQS1
+!s100 XN9lnTb@:4GG]h]H?A[m00
+R7
+32
+R8
+!i10b 1
+R9
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/Budkova/Documents/Quartus/spi/spi.vhd|
+Z20 !s107 C:/Users/Budkova/Documents/Quartus/spi/spi.vhd|
+!i113 0
+R10
+R11
+Aspi_behav
+R13
+R14
+R15
+R16
+R4
+R5
+Z21 DEx4 work 3 spi 0 22 TkzKgFZ2EVO6Ion1OXWQS1
+l51
+L33
+V1_QIQTUNP5iJ@=C4;>Fe:3
+!s100 zVogond7dDd@cNf][P];j3
+R7
+32
+R8
+!i10b 1
+R9
+R19
+R20
+!i113 0
+R10
+R11
+Espi_tb
+Z22 w1620910483
+R13
+R14
+R15
+R16
+R4
+R5
+R6
+Z23 8C:/Users/Budkova/Documents/Quartus/spi/spi_tb.vhd
+Z24 FC:/Users/Budkova/Documents/Quartus/spi/spi_tb.vhd
+l0
+L10
+VToR<3z441zYdIVm84Y<Pn3
+!s100 SzS7G<b[29MldTW9nWe1I3
+R7
+32
+R8
+!i10b 1
+R9
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/Budkova/Documents/Quartus/spi/spi_tb.vhd|
+Z26 !s107 C:/Users/Budkova/Documents/Quartus/spi/spi_tb.vhd|
+!i113 0
+R10
+R11
+Aspi_tb_behav
+R21
+R13
+R14
+R15
+R16
+R4
+R5
+DEx4 work 6 spi_tb 0 22 ToR<3z441zYdIVm84Y<Pn3
+l23
+L13
+VF@<OPHcR7Un>ZO8KY9[Xi2
+!s100 KURYHQW410514QaZOlVhV2
+R7
+32
+R8
+!i10b 1
+R9
+R25
+R26
+!i113 0
+R10
+R11
